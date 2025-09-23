@@ -47,14 +47,14 @@ export default function Home({ videos }) {
           Latest articles
         </h3>
         <BlogPost
+          title="The age of the generalist"
+          summary="How AI is shifting the balance in software development by enabling more the generalists to thrive"
+          slug="the-age-of-the-generalist"
+        />
+        <BlogPost
           title="How frameworks reflect the culture of product teams"
           summary="Framework choices are more than technical, they reveal the culture and priorities of the teams behind them."
           slug="frameworks-reflect-culture"
-        />
-        <BlogPost
-          title="The cost of flexibility in Drupal"
-          summary="Balancing flexibility and focus: Navigating Drupal’s potential without sacrificing UX and maintainability"
-          slug="the-cost-of-flexibility-in-drupal"
         />
         <BlogPost
           title="Using AI to assist in visual testing"
